@@ -1,0 +1,83 @@
+.btn:hover {
+    background-color: #fde5db;
+    color:#003a83;
+    border: none;}
+  .navbar{
+    color:#d2a9b8;
+  }
+
+@import url('https://fonts.googleapis.com/css?family=Oswald|Roboto:300,400,500');
+
+body {
+  font-family: 'LibreFranklin';
+  background-color: #fde5db;
+}
+
+.h1{
+    text-align: center;
+    font-weight: bold;
+}
+
+
+.card{
+    background-color:#fde5db;
+    border: none;
+    font-family: 'LibreFranklin';
+}   
+
+.card-title{
+    font-weight: bold;
+}
+
+.btn-primary{
+    color: #fff;
+    background-color:#d2a9b8;
+    border-color:#d2a9b8;
+    
+}
+
+/*
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;            
+    Footer height 
+  }
+  */
+
+.ClickHere{
+    font-style: normal;
+    text-align: center;
+    color: #003a83;
+    font-family: 'LibreFranklin';
+    font-size: 25px;
+  }
+  
+  
+  .CaseStudies{
+    font-style:italic;
+    text-align: center;
+    color: #003a83;
+    font-family:'LibreFranklin';
+    font-size:25px;
+   
+  
+  }
+  
+  .LinkedIn{
+    font-style: italic; 
+    text-align: center;
+    color: #003a83;
+    font-family: 'LibreFranklin';
+    font-size: 25px;
+  }
+  
+  
+  .Behance{
+    font-style: italic; 
+    text-align: center;
+    color: #003a83;
+    font-family: 'LibreFranklin';
+    font-size: 25px;
+  }
