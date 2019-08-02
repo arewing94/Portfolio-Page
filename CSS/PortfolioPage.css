@@ -1,9 +1,11 @@
+.jumbotron {background-color:#fde5db;}
+
 .btn:hover {
     background-color: #fde5db;
     color:#003a83;
     border: none;}
   .navbar{
-    color:#d2a9b8;
+    background-color:#d2a9b8;
   }
 
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto:300,400,500');
