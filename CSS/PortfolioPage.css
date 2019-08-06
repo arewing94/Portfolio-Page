@@ -1,17 +1,20 @@
-.jumbotron {background-color:#fde5db;}
+.jumbotron {background-color:#fde5db;
+font-family:"DancingScript", Cursive;}
 
 .btn:hover {
     background-color: #fde5db;
     color:#003a83;
     border: none;}
-  .navbar{
-    background-color:#d2a9b8;
-  }
+
+    .bg-light{
+      background-color:#d2a9b8;
+     }
 
 @import url('https://fonts.googleapis.com/css?family=Oswald|Roboto:300,400,500');
 
 body {
-  font-family: 'LibreFranklin';
+  font-family: 'Libre Franklin', sans-serif;
+  ;
   background-color: #fde5db;
 }
 
@@ -24,7 +27,7 @@ body {
 .card{
     background-color:#fde5db;
     border: none;
-    font-family: 'LibreFranklin';
+    font-family: 'Libre Franklin', sans-serif;
 }   
 
 .card-title{
@@ -36,6 +39,15 @@ body {
     background-color:#d2a9b8;
     border-color:#d2a9b8;
     
+}
+
+.blockquote{
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-size: 50px;
 }
 
 /*
@@ -52,7 +64,7 @@ body {
     font-style: normal;
     text-align: center;
     color: #003a83;
-    font-family: 'LibreFranklin';
+    font-family: 'Libre Franklin', sans-serif;
     font-size: 25px;
   }
   
@@ -61,7 +73,7 @@ body {
     font-style:italic;
     text-align: center;
     color: #003a83;
-    font-family:'LibreFranklin';
+    font-family:'Libre Franklin', sans-serif;
     font-size:25px;
    
   
@@ -71,7 +83,7 @@ body {
     font-style: italic; 
     text-align: center;
     color: #003a83;
-    font-family: 'LibreFranklin';
+    font-family: 'Libre Franklin', sans-serif;
     font-size: 25px;
   }
   
@@ -80,6 +92,6 @@ body {
     font-style: italic; 
     text-align: center;
     color: #003a83;
-    font-family: 'LibreFranklin';
+    font-family: 'Libre Franklin', sans-serif;
     font-size: 25px;
   }
